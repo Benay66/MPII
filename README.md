@@ -18,4 +18,4 @@ Developed as part of the Neural Networks and Machine Learning course during the 
 - Images stored in `scripts/dataset/images/`
 
 ## Code 
-- Jupyter code stored in 'code'
+- Jupyter code in `code/PoseEstimation.ipynb`
