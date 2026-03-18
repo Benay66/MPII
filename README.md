@@ -17,4 +17,5 @@ Developed as part of the Neural Networks and Machine Learning course during the 
 - Includes train, validation and test splits
 - Images stored in `scripts/dataset/images/`
 
-## Project Structure
+## Code 
+- Jupyter code stored in 'code'
